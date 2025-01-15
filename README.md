@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhanashree Kalyani</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/XPRG-4ujVMIAAAAM/cat-work-in-progress.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanashree-kalyani&label=Profile%20views&color=0e75b6&style=flat" alt="dhanashree-kalyani" /> </p>
 
